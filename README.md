@@ -26,5 +26,3 @@ Power Query (data transformation)
 
 💡 Conclusion:
 Uklon integration has strong positive impact on customer value, but unlocking inactive users remains the biggest growth lever.
-
-#DataAnalytics #PowerBI #SQL #ProductAnalytics #Kyivstar #Uklon
