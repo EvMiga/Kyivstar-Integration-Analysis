@@ -58,7 +58,3 @@ The structure and correlations reflect realistic telecom analytics scenarios.
 Uklon integration shows strong positive impact on customer lifetime value.
 The highest ROI opportunity lies in re-engaging inactive subscribers 
 through targeted activation campaigns.
-
----
-
-Open to freelance data analysis projects — [LinkedIn](YOUR_LINK)
