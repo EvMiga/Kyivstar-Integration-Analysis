@@ -1,28 +1,45 @@
-# Kyivstar-Integration-Analysis
-In this project, I conducted research on how Uklon integration affects Kyivstar customer value
-Key focus areas:
+# Kyivstar x Uklon Integration Analysis
 
-Customer segmentation based on activity (high / low / inactive)
-Revenue comparison between Uklon and non-Uklon users
-Churn analysis and retention patterns
-User engagement (sessions & ride frequency)
-Funnel analysis of customer activation
+**Business question:** Does Uklon integration increase customer value 
+for Kyivstar subscribers?
 
-📈 Key findings:
+This project simulates a real-world telecom analytics scenario — measuring 
+how a ride-hailing partnership (Uklon) impacts revenue, churn, and engagement 
+across Kyivstar's customer base.
 
-Uklon users generate significantly higher revenue compared to non-users
-Churn rate is drastically lower among Uklon users
-Higher engagement (sessions, rides) directly correlates with increased revenue
-The largest growth opportunity lies in activating inactive users
+---
 
-This project utilizes synthetic data based on typical user behavior patterns in ride-hailing services. 
-Despite the lack of real-world data, the structure and correlations (activity, churn, revenue) closely resemble actual business scenarios, enabling sound analytical insights.
+## Objectives
 
-🛠 Tools used:
+- Segment customers by activity level (High / Low / Inactive)
+- Compare revenue between Uklon and non-Uklon users
+- Analyze churn rates and retention patterns
+- Measure engagement: session frequency and ride volume
+- Build activation funnel for inactive users
 
-SQL (SQLite, DBeaver)
-Power BI (data modeling, visualization)
-Power Query (data transformation)
+---
 
-💡 Conclusion:
-Uklon integration has strong positive impact on customer value, but unlocking inactive users remains the biggest growth lever.
+## Key Findings
+
+| Metric | Uklon Users | Non-Uklon Users |
+|---|---|---|
+| Avg. Revenue | Significantly higher | Baseline |
+| Churn Rate | Drastically lower | Baseline |
+| Session Frequency | Higher | Baseline |
+
+The biggest growth lever is activating inactive users — they represent 
+the largest untapped revenue opportunity.
+
+---
+
+## Tools
+
+| Tool | Purpose |
+|---|---|
+| SQL (SQLite + DBeaver) | Data modeling, segmentation queries |
+| Power BI | Interactive dashboard, KPI visualization |
+| Power Query | Data transformation and cleaning |
+
+---
+
+## Project Structure
