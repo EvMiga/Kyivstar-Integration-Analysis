@@ -43,3 +43,22 @@ the largest untapped revenue opportunity.
 ---
 
 ## Project Structure
+
+---
+
+## Data Note
+
+Synthetic data modeled on real ride-hailing behavior patterns.
+The structure and correlations reflect realistic telecom analytics scenarios.
+
+---
+
+## Conclusion
+
+Uklon integration shows strong positive impact on customer lifetime value.
+The highest ROI opportunity lies in re-engaging inactive subscribers 
+through targeted activation campaigns.
+
+---
+
+Open to freelance data analysis projects — [LinkedIn](YOUR_LINK)
